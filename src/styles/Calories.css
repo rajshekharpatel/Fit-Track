@@ -1,0 +1,89 @@
+.page-container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.calorie-card {
+  background: #f7f3f3;
+  border-radius: 20px;
+  padding: 30px;
+
+  box-shadow:
+    0 10px 30px rgba(0, 0, 0, 0.1);
+
+  transition: 0.3s;
+}
+
+.calorie-card:hover {
+  transform: translateY(-5px);
+}
+
+.calorie-title {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #2563eb;
+}
+
+.calorie-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.calorie-form input,
+.calorie-form select {
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+.calorie-form input:focus,
+.calorie-form select:focus {
+  outline: none;
+  border-color: #2563eb;
+}
+
+.calorie-btn {
+  background: linear-gradient(
+    135deg,
+    #2563eb,
+    #7c3aed
+  );
+
+  color: white;
+  border: none;
+  padding: 14px;
+
+  border-radius: 10px;
+
+  font-size: 16px;
+  font-weight: bold;
+
+  cursor: pointer;
+
+  transition: 0.3s;
+}
+
+.calorie-btn:hover {
+  transform: scale(1.02);
+}
+
+.calorie-result {
+  margin-top: 25px;
+  padding: 20px;
+
+  text-align: center;
+
+  background: #eff6ff;
+
+  border-radius: 15px;
+
+  border-left: 5px solid #2563eb;
+}
+
+.calorie-result h3 {
+  color: #2563eb;
+  margin-bottom: 10px;
+}

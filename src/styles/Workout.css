@@ -1,0 +1,51 @@
+.page-container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.workout-card {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+
+  box-shadow:
+    0 10px 30px rgba(0,0,0,.1);
+}
+
+.workout-title {
+  text-align: center;
+  color: #2563eb;
+  margin-bottom: 20px;
+}
+
+.workout-item {
+  display: flex;
+  align-items: center;
+
+  gap: 10px;
+
+  padding: 15px;
+
+  margin-bottom: 10px;
+
+  background: #f8fafc;
+
+  border-radius: 10px;
+}
+
+.workout-item:hover {
+  background: #e0f2fe;
+}
+
+.completed {
+  margin-top: 20px;
+
+  text-align: center;
+
+  padding: 15px;
+
+  border-radius: 10px;
+
+  background: #eff6ff;
+}

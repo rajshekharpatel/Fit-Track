@@ -1,0 +1,35 @@
+.bmi-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.bmi-form input {
+  padding: 14px;
+  border: none;
+  border-radius: 12px;
+  font-size: 16px;
+}
+
+.bmi-form button {
+  padding: 14px;
+  border: none;
+  border-radius: 12px;
+
+  background: linear-gradient(
+    135deg,
+    #2563eb,
+    #7c3aed
+  );
+
+  color: rgb(253, 252, 252);
+  font-weight: bold;
+
+  cursor: pointer;
+}
+
+.bmi-result {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 1.2rem;
+}
