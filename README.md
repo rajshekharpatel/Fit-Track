@@ -206,9 +206,9 @@ Passionate about building responsive, user-friendly web applications and continu
 
 **GitHub:** https://github.com/rajshekharpatel
 
-**LinkedIn:** https://linkedin.com/in/your-profile
+**LinkedIn:** www.linkedin.com/in/raj-shekhar-patel-332782329
 
-**Portfolio:** https://yourportfolio.com
+**Portfolio:** https://personal-portfolio-theta-ten-82.vercel.app/
 
 ---
 
@@ -217,7 +217,3 @@ Passionate about building responsive, user-friendly web applications and continu
 If you like this project, consider giving it a **⭐ Star** on GitHub. It really helps and motivates me to build more open-source projects.
 
 ---
-
-# 📄 License
-
-This project is licensed under the MIT License.
