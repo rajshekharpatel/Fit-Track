@@ -116,9 +116,6 @@ http://localhost:5173
 # 📸 Screenshots
 
 ## Home Page
-
-*Add a screenshot here*
-
 ---
 
 ## Responsive View
